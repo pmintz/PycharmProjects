@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e000c6f6-f076-4828-9b91-a875e3a7e62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UquScRIoFrYlsWe00MdASvLQjQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FacialRecognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FacialRecognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FacialRecognition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e000c6f6-f076-4828-9b91-a875e3a7e62d" name="Default Changelist" comment="" />
+      <created>1576096448183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576096448183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="34" key="FileChooserDialogImpl" timestamp="1578065377705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="29" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1576097507765" />
+    <state x="384" y="34" key="FileChooserDialogImpl/0.0.1280.680/136.-900.1600.860@0.0.1280.680" timestamp="1578065377705" />
+    <state width="1076" height="162" key="GridCell.Tab.0.bottom" timestamp="1576274505183">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1576274505183" />
+    <state width="1076" height="162" key="GridCell.Tab.0.center" timestamp="1576274505182">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1576274505182" />
+    <state width="1076" height="162" key="GridCell.Tab.0.left" timestamp="1576274505182">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1576274505182" />
+    <state width="1076" height="162" key="GridCell.Tab.0.right" timestamp="1576274505183">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1576274505183" />
+    <state width="1076" height="162" key="GridCell.Tab.1.bottom" timestamp="1576274505184">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.1.bottom/0.0.1097.577@0.0.1097.577" timestamp="1576274505184" />
+    <state width="1076" height="162" key="GridCell.Tab.1.center" timestamp="1576274505184">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.1.center/0.0.1097.577@0.0.1097.577" timestamp="1576274505184" />
+    <state width="1076" height="162" key="GridCell.Tab.1.left" timestamp="1576274505183">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.1.left/0.0.1097.577@0.0.1097.577" timestamp="1576274505183" />
+    <state width="1076" height="162" key="GridCell.Tab.1.right" timestamp="1576274505184">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="162" key="GridCell.Tab.1.right/0.0.1097.577@0.0.1097.577" timestamp="1576274505184" />
+    <state x="221" y="83" key="IDE.errors.dialog" timestamp="1578064613346">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="83" key="IDE.errors.dialog/0.0.1280.680/136.-900.1600.860@0.0.1280.680" timestamp="1578064613346" />
+    <state x="58" y="0" key="SettingsEditor" timestamp="1576098825030">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="58" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1576098825030" />
+    <state x="292" y="132" key="com.intellij.ide.util.TipDialog" timestamp="1578064762868">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="112" key="com.intellij.ide.util.TipDialog/0.0.1097.577@0.0.1097.577" timestamp="1576246336714" />
+    <state x="292" y="132" key="com.intellij.ide.util.TipDialog/0.0.1280.680/136.-900.1600.860@0.0.1280.680" timestamp="1578064762868" />
+    <state x="292" y="132" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576510714857" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
